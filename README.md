@@ -1,14 +1,12 @@
 # Hello, I'm Tebogo
 <a href="https://linkedin.com/in/tebogo-mosome/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with working knowledge of Cloud Computing and IT Security. I have a keen interest in developing and implementing robust security practices for organisations.
+I am a recent graduate with working knowledge of cloud computing and IT security. I have a keen interest in developing and implementing robust security practices for organisations. Proactive and eager to further pursue my career goals.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as any of these: SOC Analyst, Identity and Access Administrator or Information Security Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
