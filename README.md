@@ -2,7 +2,7 @@
 <a href="https://linkedin.com/in/tebogo-mosome/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a recent graduate with working knowledge of cloud computing and IT security. I have a keen interest in developing and implementing robust security practices for organisations. Proactive and eager to further pursue my career goals.
+I am an IT professional with working knowledge of cloud computing and IT security. I have a keen interest in developing and implementing robust security practices for organisations. I am proactive and eager to further pursue my career goals in cybersecurity.
 
 ## Objective
 
