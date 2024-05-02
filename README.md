@@ -6,7 +6,7 @@ I am a recent graduate with working knowledge of cloud computing and IT security
 
 ## Objective
 
-My journey in technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as any of these: SOC Analyst, Identity and Access Administrator or Information Security Analyst.
+My journey in technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as any of these roles: SOC Analyst, Identity and Access Administrator or Information Security Analyst.
 
 ## Skills
 
