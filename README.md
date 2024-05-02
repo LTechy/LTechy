@@ -14,7 +14,7 @@ My journey in technology has led me to develop a passion for cybersecurity, and 
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle Wazuh         | SOC Automation Lab|
+| Security Automation with Wazuh         | SOC Automation Lab|
 
 
 ## Tools
